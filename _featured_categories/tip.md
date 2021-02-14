@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Project
-slug: project
+title: Tip
+slug: tip
 menu: true
-submenu: false
+submenu: true
 order: 3
 description: >
-  인공지능 프로젝트
+  Tip
 ---
